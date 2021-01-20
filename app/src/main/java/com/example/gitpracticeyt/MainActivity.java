@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
                 println("Prueba de cambios");
                 println("Cambios locales");
-                println("CHANGE 1");
+                println("CHANGE 2");
             }
         });
     }
