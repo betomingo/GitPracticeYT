@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 println("Prueba de cambios");
                 println("Cambios locales");
                 println("CHANGE 2");
+                println("THIS LINE WILL BE MERGED");
             }
         });
     }
